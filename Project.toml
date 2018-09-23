@@ -1,0 +1,7 @@
+name = "Pukeko"
+uuid = "9f20521c-b9c9-11e8-2161-e7e16a6d398b"
+authors = ["Kristoffer Carlsson <kcarlsson89@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
